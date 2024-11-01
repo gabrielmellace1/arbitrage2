@@ -1,0 +1,12 @@
+{
+  "name": "cross-chain-arbitrage-bot",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
